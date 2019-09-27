@@ -1,27 +1,15 @@
 [
   {
-    "tag": "p",
-    "innerHtml": "F. E. SILLANPÄÄ\nPorvoossa, Werner Söderström Osakeyhtiö, 1923."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "SISÄLLYS."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Johdannoksi.\nEmot ja poikaset.\nAnna-vainaa ja Kalle-vainaa.\nMuuan Tellervo-niminen.\nMaantieltä maantielle.\nLumituisku.\nLapsen suru.\nTyhjä koti.\nKoulu.\nKemppasen mukulat.\nKäväisy.\nOmistani ja omilleni."
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
     "tag": "h4",
     "innerHtml": "Johdannoksi"
   },
   {
+    "tag": "blockquote",
+    "innerHtml": "<p>(Huomautus omille lapsilleni: Koska olette repineet sen \"Kyrön Joulun\", johon Pappa oli kirjoittanut nämä täysin asialliset \"Muistelmat pikkupoikuutensa ajoilta\", niin painetaan ne nyt tähän, että saatte isoina lukea.)</p>"
+  },
+  {
     "tag": "p",
-    "innerHtml": "(Huomautus omille lapsilleni: Koska olette repineet sen \"Kyrön\n   Joulun\", johon Pappa oli kirjoittanut nämä täysin asialliset\n   \"Muistelmat pikkupoikuutensa ajoilta\", niin painetaan ne nyt\n   tähän, että saatte isoina lukea.)\nHaluan tämmöisessä kotoisessa joululehdessä, jota tuskin lukevat muut kuin minulle tutut ihmiset, vielä uudestaan muistella joulua ja vähän muitakin päiviä semmoisina kuin ne elin lapsuuteni ihanina hetkinä Kierikkalan myllykolun partaalla. Olen sen jälkeen nähnyt hyviä päiviä jos huonojakin, käynyt majoissa matalissa jos korkeissakin, iloinnut ja joskus itkenytkin, mutta ilman runollista liioittelua voin sanoa, että ihanimmat päiväni ja yöni, iltani ja aamuni olen viettänyt isäni tekemässä pesässä Kierikkalan myllysillan päässä. En missään ole saanut niin tyydyttäviä aterioita, ei missään minun ole ollut niin mukavan lämmin sielun ja ruumiin puolesta kuin siellä oli. Ei missään ole pihan ruoho ollut niin vehmasta eikä saunan löyly niin makeata kuin siellä. Jos myöhemmin kirjailijana olen osannut kuvata Suomen suvista luontoa, niin olen siihen alun saanut Myllyniitun pensastoista, kun kuusivuotiaana karkasin sinne hämyssä maatamenon aikaan, orjantappuroiden kukkiessa ja kolujen kohistessa. Minun ei tarvitse lasketella mitään ammattilurituksia, kun niitä aikoja ylistän. Minä olen yhdessä suhteessa tosiaan rikas ja onnellinen mies: minulla on ollut erittäin kaunis ja ihana lapsuus."
+    "innerHtml": "Haluan tämmöisessä kotoisessa joululehdessä, jota tuskin lukevat muut kuin minulle tutut ihmiset, vielä uudestaan muistella joulua ja vähän muitakin päiviä semmoisina kuin ne elin lapsuuteni ihanina hetkinä Kierikkalan myllykolun partaalla. Olen sen jälkeen nähnyt hyviä päiviä jos huonojakin, käynyt majoissa matalissa jos korkeissakin, iloinnut ja joskus itkenytkin, mutta ilman runollista liioittelua voin sanoa, että ihanimmat päiväni ja yöni, iltani ja aamuni olen viettänyt isäni tekemässä pesässä Kierikkalan myllysillan päässä. En missään ole saanut niin tyydyttäviä aterioita, ei missään minun ole ollut niin mukavan lämmin sielun ja ruumiin puolesta kuin siellä oli. Ei missään ole pihan ruoho ollut niin vehmasta eikä saunan löyly niin makeata kuin siellä. Jos myöhemmin kirjailijana olen osannut kuvata Suomen suvista luontoa, niin olen siihen alun saanut Myllyniitun pensastoista, kun kuusivuotiaana karkasin sinne hämyssä maatamenon aikaan, orjantappuroiden kukkiessa ja kolujen kohistessa. Minun ei tarvitse lasketella mitään ammattilurituksia, kun niitä aikoja ylistän. Minä olen yhdessä suhteessa tosiaan rikas ja onnellinen mies: minulla on ollut erittäin kaunis ja ihana lapsuus."
   },
   {
     "tag": "p",
